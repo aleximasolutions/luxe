@@ -1,0 +1,16 @@
+@font-face {
+	font-family: Gilroy;
+	src:url(../Fonts/Gilroy-Regular.ttf);
+	font-weight: 400;
+}
+@font-face {
+	font-family: Gilroy;
+	src:url(../Fonts/Gilroy-Medium.ttf);
+	font-weight: 500;
+}
+@font-face {
+	font-family: Noto;
+	src:url(../Fonts/NotoSerif-Bold.ttf);
+	font-weight: 700;
+}
+
